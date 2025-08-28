@@ -1,12 +1,3 @@
-Here’s a cleaned-up, professional version of your README where:
-
-* The **screenshots are moved below the Features section** (instead of at the very top).
-* I added a **consistent section for screenshots with proper captions**.
-* Fixed the spelling of `screenshoots → screenshots`.
-* Improved spacing so the images display neatly without breaking flow.
-
----
-
 # RenvexROI App
 
 A modern ROI tracking and withdrawal management app with secure authentication, smooth UI, and responsive design.
@@ -86,11 +77,3 @@ A modern ROI tracking and withdrawal management app with secure authentication, 
 * **ESLint** – Code linting and formatting
 
 ---
-
-✅ With this structure, your README looks polished:
-
-* First impression = **clear description + features**.
-* Screenshots appear in a **dedicated section** with captions (instead of scattered at the top).
-* Consistent formatting for professional appeal.
-
-Do you want me to also **resize screenshots uniformly** with HTML `<img>` (so they don’t look mismatched), or keep them in Markdown tables?
