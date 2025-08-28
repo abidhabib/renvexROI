@@ -43,12 +43,12 @@ A modern ROI tracking and withdrawal management app with secure authentication, 
 
 | Light Mode                                 | Dark Mode                                  |
 | ------------------------------------------ | ------------------------------------------ |
-| ![Dashboard ](./screenshots/Home.png) | ![Home](./screenshots/Home1.png) |
+| ![Dashboard ](./screenshoots/Home.png) | ![Home](./screenshoots/Home1.png) |
 
 
 | Withdrawal Form                    | Transaction History                       |
 | ---------------------------------- | ----------------------------------------- |
-| ![Withdrawal](./screenshots/w.png) | ![Analytics](./screenshots/Analytics.png) |
+| ![Withdrawal](./screenshoots/w.png) | ![Analytics](./screenshoots/Analytics.png) |
 | *Withdrawal Request List*          | *Transaction History View*                |
 
 ---
