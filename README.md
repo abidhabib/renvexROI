@@ -1,17 +1,16 @@
-# FinWise Banking App
+# RenvexROI  App
 
-A modern, responsive banking application for managing withdrawals and transaction history with a clean, intuitive interface.
 
-![Wallet](./screenshots/Home.png)
+![Wallet](./screenshoots/Home.png)
 *Dashboard in Light Mode*
 
-![HOME](./screenshots/Home1.png)
+![HOME](./screenshoots/Home1.png)
 *Dashboard in Dark Mode*
 
-![Withdrawal List](./screenshots/w.png)
+![Withdrawal List](./screenshoots/w.png)
 *Withdrawal Request Form*
 
-![Analytics Card](./screenshots/Analytics.png)
+![Analytics Card](./screenshoots/Analytics.png)
 *Transaction History View*
 
 ## Features
