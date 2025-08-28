@@ -2,23 +2,17 @@
 
 A modern, responsive banking application for managing withdrawals and transaction history with a clean, intuitive interface.
 
-![Dashboard Light Mode](./screenshots/dashboard-light.png)
+![Wallet](./screenshots/Home.png)
 *Dashboard in Light Mode*
 
-![Dashboard Dark Mode](./screenshots/dashboard-dark.png)
+![HOME](./screenshots/Home1.png)
 *Dashboard in Dark Mode*
 
-![Withdrawal Form](./screenshots/withdrawal-form.png)
+![Withdrawal List](./screenshots/w.png)
 *Withdrawal Request Form*
 
-![Transaction History](./screenshots/transaction-history.png)
+![Analytics Card](./screenshots/Analytics.png)
 *Transaction History View*
-
-![Receipt Modal](./screenshots/receipt-modal.png)
-*Bank-Style Receipt Modal*
-
-![Mobile View](./screenshots/mobile-view.png)
-*Mobile Responsive Design*
 
 ## Features
 
@@ -93,8 +87,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/finwise-banking-app.git
-cd finwise-banking-app
+git clone https://github.com/abidhabib/renvexROI.git
+cd renvexROI
 ```
 
 2. Install dependencies:
@@ -273,30 +267,7 @@ For support, please open an issue on the GitHub repository or contact the develo
 
 ---
 
-*Built with ❤️ for modern banking experiences*
-
----
-
-### 📸 Screenshots Gallery
-
-| Dashboard Light | Dashboard Dark | Withdrawal Form |
-|:---------------:|:--------------:|:---------------:|
-| ![Dashboard Light](./screenshots/dashboard-light.png) | ![Dashboard Dark](./screenshots/dashboard-dark.png) | ![Withdrawal Form](./screenshots/withdrawal-form.png) |
-
-| Transaction History | Receipt Modal | Mobile View |
-|:-------------------:|:-------------:|:-----------:|
-| ![Transaction History](./screenshots/transaction-history.png) | ![Receipt Modal](./screenshots/receipt-modal.png) | ![Mobile View](./screenshots/mobile-view.png) |
-
----
-
-### 📱 Responsive Design Showcase
-
-The application adapts seamlessly across all device sizes:
-
-**Mobile (320px)**
-![Mobile View](./screenshots/mobile-320.png)
-
-
+*Built with ❤️ for modern  experiences*
 
 ---
 
