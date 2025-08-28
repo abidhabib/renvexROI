@@ -1,6 +1,24 @@
-# RENVEXROI  App
+# FinWise Banking App
 
-A modern, responsive ROI application for managing withdrawals and transaction history with a clean, intuitive interface.
+A modern, responsive banking application for managing withdrawals and transaction history with a clean, intuitive interface.
+
+![Dashboard Light Mode](./screenshots/dashboard-light.png)
+*Dashboard in Light Mode*
+
+![Dashboard Dark Mode](./screenshots/dashboard-dark.png)
+*Dashboard in Dark Mode*
+
+![Withdrawal Form](./screenshots/withdrawal-form.png)
+*Withdrawal Request Form*
+
+![Transaction History](./screenshots/transaction-history.png)
+*Transaction History View*
+
+![Receipt Modal](./screenshots/receipt-modal.png)
+*Bank-Style Receipt Modal*
+
+![Mobile View](./screenshots/mobile-view.png)
+*Mobile Responsive Design*
 
 ## Features
 
@@ -57,8 +75,8 @@ src/
 │   ├── auth/           # Authentication components
 │   ├── dashboard/      # Main dashboard views
 │   ├── new/           # New UI components
-│   ├── utils/         # Utility components
-│   └── UserContext/   # Context providers
+│   ├── utils/          # Utility components
+│   └── UserContext/    # Context providers
 ├── pages/              # Main application pages
 ├── utils/              # Helper functions
 ├── assets/             # Static assets
@@ -132,9 +150,6 @@ yarn preview
 ### Authentication
 - **Login Page** - Secure user authentication
 - **Session Management** - Persistent login sessions
-- DEMO USER
-- EMAIL: user@gmail.com
-- PASSWORD user123
 
 ### Dashboard
 - **Overview** - Account summary and quick actions
@@ -258,4 +273,65 @@ For support, please open an issue on the GitHub repository or contact the develo
 
 ---
 
-*Built with ❤️ for modern ROI experiences*
+*Built with ❤️ for modern banking experiences*
+
+---
+
+### 📸 Screenshots Gallery
+
+| Dashboard Light | Dashboard Dark | Withdrawal Form |
+|:---------------:|:--------------:|:---------------:|
+| ![Dashboard Light](./screenshots/dashboard-light.png) | ![Dashboard Dark](./screenshots/dashboard-dark.png) | ![Withdrawal Form](./screenshots/withdrawal-form.png) |
+
+| Transaction History | Receipt Modal | Mobile View |
+|:-------------------:|:-------------:|:-----------:|
+| ![Transaction History](./screenshots/transaction-history.png) | ![Receipt Modal](./screenshots/receipt-modal.png) | ![Mobile View](./screenshots/mobile-view.png) |
+
+---
+
+### 📱 Responsive Design Showcase
+
+The application adapts seamlessly across all device sizes:
+
+**Mobile (320px)**
+![Mobile View](./screenshots/mobile-320.png)
+
+
+
+---
+
+### 🎨 Theme Variations
+
+**Light Theme**
+- Clean, minimalist interface
+- High contrast for readability
+- Subtle gradients and shadows
+
+**Dark Theme**
+- Eye-friendly dark interface
+- Reduced eye strain in low-light conditions
+- Elegant accent colors
+
+---
+
+### 📊 Feature Highlights
+
+1. **Intuitive Dashboard**
+   - Quick overview of account status
+   - One-tap withdrawal requests
+   - Real-time transaction updates
+
+2. **Secure Transactions**
+   - Bank-level security protocols
+   - End-to-end encryption
+   - Privacy-focused design
+
+3. **Print-Ready Receipts**
+   - Authentic bank receipt design
+   - Typewriter-style typography
+   - One-click printing functionality
+
+4. **Cross-Platform Compatibility**
+   - Works on all modern browsers
+   - Responsive design for all devices
+   - Offline capability for key features
